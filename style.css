@@ -2,3 +2,21 @@ html {
     width: 100%;
     background-color: rgba(0, 255, 255, 0.356);
 }
+
+   
+   /* Canvas */
+canvas{
+    display:inline-block;
+    transform:translatex(0px) translatey(0px);
+    width:591px;
+    height:296px;
+    padding-left:0px;
+    padding-right:0px;
+    position:relative;
+    top:145px;
+    bottom:-61px;
+    left:312px;
+    right:-200px;
+ }
+   
+   
