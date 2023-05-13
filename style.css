@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+
 html {
     width: 100%;
+    overflow: hidden;
     background-color: rgba(0, 255, 255, 0.356);
 }
 
@@ -16,5 +19,15 @@ canvas{
     left:200px;
     background-color: white;
  }
-   
+#title-graph{
+    text-align: center;
+    font-family: 'Cedarville Cursive', cursive;
+    font-size:40px;
+    margin-left:-50px;
+    margin-right:-48px;
+    margin-top:-24px;
+    margin-bottom:-17px;
+    position:relative;
+    top:45px;
+}
    
