@@ -7,16 +7,14 @@ html {
    /* Canvas */
 canvas{
     display:inline-block;
-    transform:translatex(0px) translatey(0px);
-    width:591px;
-    height:296px;
+    width:70%;
+    height:70%;
     padding-left:0px;
     padding-right:0px;
     position:relative;
-    top:145px;
-    bottom:-61px;
-    left:312px;
-    right:-200px;
+    top:71px;
+    left:200px;
+    background-color: white;
  }
    
    
