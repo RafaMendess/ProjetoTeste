@@ -2,3 +2,19 @@ html {
     width: 100%;
     background-color: rgba(0, 255, 255, 0.356);
 }
+
+   
+   /* Canvas */
+canvas{
+    display:inline-block;
+    width:70%;
+    height:70%;
+    padding-left:0px;
+    padding-right:0px;
+    position:relative;
+    top:71px;
+    left:200px;
+    background-color: white;
+ }
+   
+   
